@@ -1,0 +1,78 @@
+﻿#container
+{
+    min-width:50%;
+    min-height:50%;
+  
+    padding:10px;
+}
+
+#calculator
+{
+    width:450px;
+    height:430px;
+    border-style:solid;
+    border-width:1px;
+    border-color:gray;
+    padding:10px;  
+      background: red; /* For browsers that do not support gradients */
+      background: -webkit-linear-gradient(left top, #3a98ea, #ffffff); /* For Safari 5.1 to 6.0 */
+      background: -o-linear-gradient(bottom right, #3a98ea, #ffffff); /* For Opera 11.1 to 12.0 */
+      background: -moz-linear-gradient(bottom right, #3a98ea, #ffffff); /* For Firefox 3.6 to 15 */
+      background: linear-gradient(to bottom right, #3a98ea, #ffffff); /* Standard syntax */
+ 
+
+}
+
+.buttons
+{
+    width:45px;
+    height:45px;
+    margin:5px;
+    text-align:center; 
+    font-family:'Franklin Gothic Medium';
+}
+
+.fields
+{
+
+    font-size:28px;
+    font-family:'Franklin Gothic Medium';
+   
+}
+#TextFields
+{
+ 
+    width:400px;
+    padding:10px;
+    margin-left: 13px;
+    border-style: solid;
+    border-color: gray;
+    border-width:1px;
+
+     background: red; /* For browsers that do not support gradients */
+      background: -webkit-linear-gradient(left top, #e2dcdc, #ffffff); /* For Safari 5.1 to 6.0 */
+      background: -o-linear-gradient(bottom right, #e2dcdc, #ffffff); /* For Opera 11.1 to 12.0 */
+      background: -moz-linear-gradient(bottom right, #e2dcdc, #ffffff); /* For Firefox 3.6 to 15 */
+      background: linear-gradient(to bottom right, #e2dcdc, #ffffff); /* Standard syntax */
+        
+}
+
+#buttonsPanel
+{    
+    height: 200px;
+    width: 380px;
+    margin-left: 30px;
+    margin-top: 80px;
+    padding:10px;
+}
+
+#addPanel
+{   
+
+    height: 210px;
+    padding:10px;
+    padding-top:13px;
+    margin:5px;
+    float:right;
+    width: 180px;
+}
